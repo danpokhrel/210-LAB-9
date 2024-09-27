@@ -1,0 +1,26 @@
+# Prerequisites
+*.d
+
+*.slo
+*.lo
+*.o
+*.obj
+*.ilk
+*.pdb
+
+*.gch
+*.pch
+
+*.so
+*.dylib
+*.dll
+
+*.mod
+*.smod
+
+*.lai
+*.la
+*.a
+*.lib
+
+.vscode/
